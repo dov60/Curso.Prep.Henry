@@ -1,0 +1,21 @@
+Definiciones:
+
+Variables: Una varible es la forma de identificar un valor con un nombre en especifico
+que posteriormente puede ser usado cuando se desee por que queda guardado en la 
+memoria y puede llamarse o cambiarsele el valor cuando se desee.
+
+String: Es una cadena de datos en este caso caracteres o letras, que se anotan en un orden
+siempre entre comillas para saber que estan dentro del mismo grupo que los identifica.
+
+Funciones: Es una agrupacion de datos o valores a los que se les denomina como argumentos, 
+que se escriben dentro de un rango o parentesis para ejecutar una orden
+que nos genera un valor para resolver una tarea o calculo, que se ejecutara al darle la orden 
+return que es la que finalmente termina la ejecucion de la funcion.
+
+Declaraciones if: Se usan para verificar si algo es verdadero o es falso y dependiendo del resultado
+cierta orden se ejecutara o no.
+
+Valores Booleanos: estos valores dependen basicamente de los valores binarios de si o no, o en 
+otras palabras activar o desactivar, o tambien verdadero o falso: True or False.
+
+
